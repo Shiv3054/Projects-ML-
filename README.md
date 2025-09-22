@@ -1,1 +1,1 @@
-Baisc ml projects
+Basic ML Projects
